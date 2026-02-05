@@ -26,7 +26,8 @@ TASK 4
 #DATE: 02.02.2026
 TASK 5
 1)how many crypto ATMs are their in india and in abroad any 5 countries
-2) how many countries accept cryptocurrency
+2) Countries that Accepted Cryptocurrency as Official Currency (Legal Tender) 3)CPUs Used for Crypto Miners    
+4)What Type of Supercomputers Are Used for Mining?
 
 #DATE: 04.02.2026
 TASK 6
