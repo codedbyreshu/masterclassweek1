@@ -21,7 +21,9 @@ TASK 3
 
 #DATE:29.01.2026 & 30.01.2026
 TASK 4
-
+1)Blockchain Technology in Andhra Pradesh — Real Estate Focus   
+2)How Blockchain Technology is Used in Tamil Nadu   
+3)Consensus Mechanisms in Blockchain (Detailed Explanation)
 
 #DATE: 02.02.2026
 TASK 5
@@ -34,4 +36,7 @@ TASK 6
 1)Need of the bitcoin Blockchain and what is the practical usage apart from deFi
 2) what is the percentage usage of Blockchain 
 3) countries involved in bitcoin mining and their percentage share
+
+#DATE: 06.02.2026
+TASK 7
 
