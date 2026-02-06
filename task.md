@@ -39,4 +39,7 @@ TASK 6
 
 #DATE: 06.02.2026
 TASK 7
+1.Compare PoW vs PoS (one chart)
+2.Explain how a transaction becomes a block (step-by-step)
+3.Identify suitable consensus for Banking, Supply Chain, Government Records*
 
